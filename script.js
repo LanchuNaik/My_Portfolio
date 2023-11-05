@@ -19,3 +19,10 @@ function opentab(tabname){
  function closemenu(){
   sidemenu.style.right="-200px";
  }
+
+ var typed = new Typed(".auto-type",{
+ strings:["Java","Oracle SQL"],
+ typeSpeed:150,
+ backSpeed:150,
+ loop:true
+ })

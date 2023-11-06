@@ -470,13 +470,33 @@ nav .fa-solid {
     margin: 53% 0%;
   }
 
-  .header-text p {
-    top: 527px;
+  .header-text h1 {
+    top: 387px;
+    left: 28px;
+    font-size: 19px;
+    line-height: 29px;
   }
 
-  .header-text h1 {
-    top: 386px;
+  .header-text span {
+    font-size: 26px;
   }
+
+  .header-text p {
+    top: 447px;
+    left: 28px;
+  }
+
+  .header-text .auto-type {
+    font-size: 25px;
+  }
+
+
+
+
+  .copyright p {
+    font-size: 10px;
+  }
+
 }
 
 @media only screen and (max-width:280px) {

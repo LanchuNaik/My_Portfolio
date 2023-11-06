@@ -490,13 +490,14 @@ nav .fa-solid {
     font-size: 25px;
   }
 
-
-
-
   .copyright p {
     font-size: 10px;
   }
 
+  table th,
+  table td {
+    font-size: 10px;
+  }
 }
 
 @media only screen and (max-width:280px) {

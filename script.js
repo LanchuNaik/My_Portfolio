@@ -21,7 +21,7 @@ function opentab(tabname){
  }
 
  var typed = new Typed(".auto-type",{
- strings:["Java","Oracle SQL"],
+ strings:["Java","Oracle SQL","Python","Machine-Learning"],
  typeSpeed:150,
  backSpeed:150,
  loop:true
